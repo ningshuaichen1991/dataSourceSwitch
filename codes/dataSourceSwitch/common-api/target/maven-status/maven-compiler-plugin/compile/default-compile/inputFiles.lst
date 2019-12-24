@@ -1,0 +1,8 @@
+D:\myLeaningCodes\dataSourceSwitch\common-api\src\main\java\com\common\BaseDao.java
+D:\myLeaningCodes\dataSourceSwitch\common-api\src\main\java\com\userInfo\domain\UserInfo.java
+D:\myLeaningCodes\dataSourceSwitch\common-api\src\main\java\com\userInfo\service\impl\UserInfoServiceImpl.java
+D:\myLeaningCodes\dataSourceSwitch\common-api\src\main\java\com\aop\annotation\Read.java
+D:\myLeaningCodes\dataSourceSwitch\common-api\src\main\java\com\userInfo\dao\UserInfoDao.java
+D:\myLeaningCodes\dataSourceSwitch\common-api\src\main\java\com\aop\ReadOrWriteAop.java
+D:\myLeaningCodes\dataSourceSwitch\common-api\src\main\java\com\userInfo\service\UserInfoService.java
+D:\myLeaningCodes\dataSourceSwitch\common-api\src\main\java\com\aop\DynamicDataSource.java

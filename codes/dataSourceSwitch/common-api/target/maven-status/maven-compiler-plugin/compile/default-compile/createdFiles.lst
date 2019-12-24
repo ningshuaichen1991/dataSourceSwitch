@@ -1,0 +1,8 @@
+com\aop\annotation\Read.class
+com\aop\DynamicDataSource.class
+com\userInfo\dao\UserInfoDao.class
+com\userInfo\service\impl\UserInfoServiceImpl.class
+com\userInfo\domain\UserInfo.class
+com\aop\ReadOrWriteAop.class
+com\userInfo\service\UserInfoService.class
+com\common\BaseDao.class
